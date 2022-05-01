@@ -23,6 +23,6 @@ For each input of the game, the following files will be generated:
 
 ### Further notes
 The current version of the implementation doesn't support both version of the game simultiniously.
-To switch between the game versions (DEI- and ICF-NCG), please uncomment the correct line in SchellingNCG::cost_of_the_neighborhood function.
+To switch between the game versions (DEI- and ICF-NCG), please uncomment the correct line in SchellingNCG::cost_of_the_neighborhood function in NCG.cpp.
 
 This code was written for a more general setting. Hence, you can see the classes' hierarchy and some extra features that you probably don't need for computing a pairwise stable network.
