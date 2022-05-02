@@ -2,7 +2,7 @@
 We study Network Creation Games with multiple types of homophilic agents and non-uniform edge cost, introducing two models focusing on the perception of same-type
 and different-type neighboring agents, respectively.
 
-This repository contains a C++ implementation of the game-theoretic model defined in "Network Creation with Homophilic Agents" paper (see  for the full version or proceedings
+This repository contains a C++ implementation of the game-theoretic model defined in "Network Creation with Homophilic Agents" paper (see https://arxiv.org/abs/2204.13757 for the full version or proceedings
 of IJCAI-ECAI 22 (the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence)).
 
 ### Input
